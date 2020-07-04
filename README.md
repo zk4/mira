@@ -2,4 +2,5 @@
 - [ ] typora inline editing 
 - [ ] fragment rendering with speed
 - [ ] viusal structure like roam 
-- [ ] tauri support for desktop version
+- [ ] electron version
+- [ ] migrate from electron to tauri
